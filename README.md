@@ -7,3 +7,5 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/2Grey)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/2Grey)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=2Grey&theme=dark)](https://leetcode.com/2Grey/)
+
